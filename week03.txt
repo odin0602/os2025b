@@ -1,0 +1,134 @@
+리눅스 명령어
+echo "출력할문자열" >> 파일명
+rm 파일명
+
+깃 명령어
+git branch -M main
+git remote add origin https://github.com/아이디/원격리포지트리이름.git
+git push -u origin main
+git push
+git remote -v
+git remote remove origin
+git clone 원격리포지트리주소
+    1  git add week03
+    2  git init
+    3  git status
+    4  git add b
+    5  git add week03
+    6  git add week02
+    7  git add week02.txt
+    8  git add week
+    9  q
+   10  echo "b"
+   11  echo "# b"
+   12  echo "# b" >> README.md
+   13  git init
+   14  echo "# b" >> week03.go
+   15  echo "# B" >> week03.go
+   16  echo "# B" >> week03.go
+   17  echo 리눅스명령어
+   18  ls
+   19  echo "hi" >> week03
+   20  cat week03.go
+   21  rm week03.go
+   22  ls
+   23  echo "B" >> README.md
+   24  echo "hell go" > C:\Users\PC\Desktop\B
+   25  ls
+   26  git init
+   27  echo "#B" >> README.md
+   28  git init
+   29  echo "hell go" > C:\Users\PC\Desktop\B
+   30  git init
+   31  git init
+   32  echo "hell go" >> C:\Users\PC\Desktop\B
+   33  git init
+   34  cd "C:\Usets\PC\Desktop\B"
+   35  git init
+   36  cd "C:\Users\PC\Desktop\B"
+   37  git init
+   38  git add README.md
+   39  git init
+   40  ls
+   41  echo "b" > README.md
+   42  git add README.md
+   43  git commit -m "first commit"
+   44  git config --list
+   45  git config --global odin0602/hongjunkim69@gmail.com
+   46  git config --global user.name "odin0602"
+   47  git config --global user.email "hongjunkim69@gmail.com"
+   48  git commit -m"first commit"
+   49  git branch -M main
+   50  git remote add origin https://github.com/odin0602/b.git
+   51  git remote add origin https://github.com/odin0602/B.git
+   52  git push -u origin main
+   53  git add week03
+   54  git status
+   55  git clone https://github.com/odin0602/b.git
+   56  ls
+   57  git clone https://github.com/odin0602/b.git
+   58  cd b
+   59  cd os2025b
+   60  git clone https://github.com/odin0602/b.git os2025b
+   61  ls
+   62  cd /c/Users/PC/Desktop
+   63  git clone https://github.com/odin0602/b.git os2025b
+   64  cd os2025b
+   65  git status
+   66  git push
+   67  history >> week03.txt
+    1  git add week03
+    2  git init
+    3  git status
+    4  git add b
+    5  git add week03
+    6  git add week02
+    7  git add week02.txt
+    8  git add week
+    9  q
+   10  echo "b"
+   11  echo "# b"
+   12  echo "# b" >> README.md
+   13  git init
+   14  echo "# b" >> week03.go
+   15  echo "# B" >> week03.go
+   16  echo "# B" >> week03.go
+   17  echo 리눅스명령어
+   18  ls
+   19  echo "hi" >> week03
+   20  cat week03.go
+   21  rm week03.go
+   22  ls
+   23  echo "B" >> README.md
+   24  echo "hell go" > C:\Users\PC\Desktop\B
+   25  ls
+   26  git init
+   27  echo "#B" >> README.md
+   28  git init
+   29  echo "hell go" > C:\Users\PC\Desktop\B
+   30  git init
+   31  git init
+   32  echo "hell go" >> C:\Users\PC\Desktop\B
+   33  git init
+   34  cd "C:\Usets\PC\Desktop\B"
+   35  git init
+   36  cd "C:\Users\PC\Desktop\B"
+   37  git init
+   38  git add README.md
+   39  git init
+   40  ls
+   41  echo "b" > README.md
+   42  git add README.md
+   43  git commit -m "first commit"
+   44  git config --list
+   45  git config --global odin0602/hongjunkim69@gmail.com
+   46  git config --global user.name "odin0602"
+   47  git config --global user.email "hongjunkim69@gmail.com"
+   48  git commit -m"first commit"
+   49  git branch -M main
+   50  git remote add origin https://github.com/odin0602/b.git
+   51  git remote add origin https://github.com/odin0602/B.git
+   52  git push -u origin main
+   53  git add week03
+   54  ls
+   55  history >> week03.txt
