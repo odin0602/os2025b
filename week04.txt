@@ -1,3 +1,11 @@
+리눅스 명령어
+<<<<<<<HEAD
+vi filename
+
+============
+vi 파일명
+
+
 git commit --amend -m"수정할 커밋 메세지"
 git reset --hard HEAD~최근커밋부터삭제할개수
 git fetch
