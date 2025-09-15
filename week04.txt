@@ -1,6 +1,5 @@
 리눅스 명령어
-<<<<<<<HEAD
-vi filename
+history | less
 
 ============
 vi 파일명
