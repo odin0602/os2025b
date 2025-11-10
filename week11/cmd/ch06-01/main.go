@@ -3,15 +3,16 @@ package main
 import "fmt"
 
 func main() {
-
-	subjects := []string{"Go", "Javascript", "Python", "Linux"} //slice 리터럴
-	subjectsSlice := subjects[1:3]                              //slicing
-
+	subjects := [4]string{"Go", "Javascript", "Python", "Linux"}
+	subjectsSlice := subjects[:3]
+	subjects[0] = "Java"
+	//subjectsSlice[0] = "Java"
+	subjectsSlice = append(subjectsSlice, "go", "DB")
 	for _, subject := range subjects {
 		fmt.Println(subject)
 	}
-	fmt.Println("===========================================")
+	fmt.Println("===============")
 	for i := 0; i < len(subjectsSlice); i++ {
-		fmt.Println(subjects)
+		fmt.Println(subjectsSlice[i])
 	}
 }
